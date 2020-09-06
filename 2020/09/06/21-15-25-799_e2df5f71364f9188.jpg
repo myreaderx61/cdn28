@@ -1,0 +1,1573 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="google-site-verification" content="5ZxUtrsUmDGP--NKtuP83sYhUQcAQH0pzYJcQTRH580" />
+<meta name="generator" content="http://www.typepad.com/" />
+
+<meta name="description" content="Bruce Carton, Eric Lipman and John Bringardner bring you the daily buzz in the legal community, from Law.com" />
+<meta name="googlebot" content="NOODP" />
+
+
+
+<title>Legal Blog Watch</title>
+
+<link rel="stylesheet" href="https://legalblogwatch.typepad.com/legal_blog_watch/styles.css" type="text/css" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="https://legalblogwatch.typepad.com/legal_blog_watch/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://legalblogwatch.typepad.com/legal_blog_watch/index.rdf" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/t/rsd/79038" />
+
+<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://legalblogwatch.typepad.com/foaf.rdf" />
+
+
+
+
+
+<!------ OAS SETUP begin ------>
+<!--Include OAS Analytics Setup Script -->
+<SCRIPT LANGUAGE="JavaScript" src="https://oasc10.247realmedia.com/Scripts/oas_analytics.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+//configuration
+//OAS_sitepage = window.location.hostname + window.location.pathname;
+
+OAS_url = 'http://oasc17.247realmedia.com/RealMedia/ads/';
+OAS_sitepage = 'alm.blogs/legalblogwatch';
+OAS_listpos = 'Top,Right1';
+
+//var OAS_taxonomy='abc=123&cde=456';
+var OAS_taxonomy='';
+var OAS_query='';
+OAS_query == '' ? OAS_query += 'XE' + '&' + OAS_taxonomy + OAS_rdl + "&if_nt_CookieAccept=" + OAS_CA + '&XE' : OAS_query += '&XE' + '&' + OAS_taxonomy + OAS_rdl + "&if_nt_CookieAccept=" + OAS_CA + '&XE';
+
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+  document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+}
+//-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript1.1">
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+  OAS_version = 10;
+if (OAS_version >= 11)
+  document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+document.write('');
+function OAS_AD(pos) {
+  if (OAS_version >= 11)
+    OAS_RICH(pos);
+  else
+    OAS_NORMAL(pos);
+}
+//-->
+</SCRIPT>
+<!------ OAS SETUP end ------>
+
+<script language="javascript" type="text/javascript">
+function startList() {
+
+	if (document.all&&document.getElementById) {
+		var collUL = document.getElementsByTagName("UL");
+		for (j=0; j<collUL.length; j++) {
+			if (collUL[j].id=="nav") {
+				navRoot = collUL[j];
+				for (i=0; i<navRoot.childNodes.length; i++) {
+					node = navRoot.childNodes[i];
+					if (node.nodeName=="LI") {
+						node.onmouseover=function() { this.className+=" over" }
+						node.onmouseout=function() { this.className=this.className.replace(" over", "") }
+					}
+				}
+			}
+			// navRoot = document.getElementById("nav");
+		}
+	}
+
+}/* startList */
+/* the getObj and init functions are for search */
+d=document;
+function getObj(id){
+	var i,x;
+	d=document;
+	if(!(x=d[id])&&d.all)x=d.all[id];
+  	for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][id];
+  	if(!x && document.getElementById) x=document.getElementById(id);
+	return x;
+}
+
+function init() {
+  	pgLoaded=2;
+	getObj('t2').className="sel";
+	document.SearchForm.Ntt.focus();
+	startList();
+}
+</script>
+
+
+
+
+</head>
+
+<body onload="init();" class="threecolumn">
+<form action="http://quest.law.com/Search/Search.do" method="GET" name="SearchForm" id="sf1">
+<div id="leaderboard">
+<!------ OAS AD 'Top' begin ------>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+OAS_AD('Top');
+//-->
+</SCRIPT>
+<!------ OAS AD 'Top' end ------>
+</div>
+
+<div id="globalnav">
+<!----AMLAW/LAWCOM GLOBAL HEAD at 768---------><table width="980" height="25" cellspacing="0" cellpadding="0" border="0"><tr>
+  <td style="border-top: 3px solid #454343;height:0px;background-color:#DEDFDE;"></td>
+</tr><tr><td bgcolor="#DEDFDE" height="20"><img src="http://www.law.com/img/universal/spacers/blank.gif" alt="" width="10" height="10"><img src="http://www.law.com/img/universal/bullet_global.gif" alt=""> <a href="http://www.law.com" style="font-size:11px;font-family:Verdana,Arial,sans-serif;color:#000000;text-decoration:none;font-weight:normal;">Law.com Home</a><img src="http://www.law.com/img/universal/spacers/blank.gif" alt="" width="25" height="10"><img src="http://www.law.com/img/universal/bullet_global.gif" alt=""> <a href="http://www.law.com/newswire/" style="font-size:11px;font-family:Verdana,Arial,sans-serif;color:#000000;text-decoration:none;font-weight:normal;">Newswire</a><img src="http://www.law.com/img/universal/spacers/blank.gif" alt="" width="25" height="10"><img src="http://www.law.com/img/universal/bullet_global.gif" alt=""> <a href="http://www.lawjobs.com" style="font-size:11px;font-family:Verdana,Arial,sans-serif;color:#000000;text-decoration:none;font-weight:normal;">LawJobs</a><img src="http://www.law.com/img/universal/spacers/blank.gif" alt="" width="25" height="10"><img src="http://www.law.com/img/universal/bullet_global.gif" alt=""> <a href="http://clecenter.com/?cmpid=LEC-LawTop" style="font-size:11px;font-family:Verdana,Arial,sans-serif;color:#000000;text-decoration:none;font-weight:normal;">CLE Center</a><img src="http://www.law.com/img/universal/spacers/blank.gif" alt="" width="25" height="10"><img src="http://www.law.com/img/universal/bullet_global.gif" alt=""> <a href="http://www.lawcatalog.com/default.cfm?affil=236023" style="font-size:11px;font-family:Verdana,Arial,sans-serif;color:#000000;text-decoration:none;font-weight:normal;">LawCatalog</a><img src="http://www.law.com/img/universal/spacers/blank.gif" alt="" width="25" height="10"><img src="http://www.law.com/img/universal/bullet_global.gif" alt=""> <a href="http://www.law.com/service/site_map.shtml" style="font-size:11px;font-family:Verdana,Arial,sans-serif;color:#000000;text-decoration:none;font-weight:normal;">Our Sites</a><img src="http://www.law.com/img/universal/spacers/blank.gif" alt="" width="25" height="10"><img src="http://www.law.com/img/universal/bullet_global.gif" alt=""> <a href="http://www.law.com/service/advertise_opps.shtml" style="font-size:11px;font-family:Verdana,Arial,sans-serif;color:#000000;text-decoration:none;font-weight:normal;">Advertise</a></td></tr><tr><td style="background-color:#969696;"><img src="http://www.law.com/images/im_logo.gif" align="right" /></td></tr></table><!----AMLAW/LAWCOM GLOBAL HEAD at 768--------->
+
+</div><!-- globalnav -->
+
+<div id="qMast">
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch"><img src="http://www.law.com/img/LegalBlogWatch/legalblogwatch_header.gif" alt="Legal Blog Watch" class="logo" /></a>
+	<div id="searchBox">
+				<ul id="optTab">
+		<li id="t1" class="norm" style="border-right:1px solid #4264a5;"><span><a href="#" id=tlnk1 tabindex=0 onclick="if(pgLoaded)ymst(this,1); return false;">Law.com Network</a></span></li><li id="t2" class="sel" style="width:53px;"><span><a href="#" id=tlnk2 tabindex=1 onclick="if(pgLoaded)ymst(this,2); return false;" >Legal Web</a></span></li>
+		</ul><!-- optTab -->
+		<div class="sfrow">
+		<input type="text" class="textbox" name="Ntt" />
+        <br />
+		<input type="image" text="GO" value="GO" class="gobtn" src="http://www.law.com/images/design/search/go_button_front.gif" />
+		</div>
+	</div><!-- searchBox -->
+		<input type="hidden" name="Nty" value="1">
+		<input type="hidden" name="N" value="0">
+		<input type="hidden" name="site" value="law">
+		<input type="hidden" name="Ntk" value="SI_All">
+		<input type="hidden" name="cx" value="1" />
+		<input type="hidden" name="sortVar" value="1" />
+
+</form>
+
+<script type="text/javascript" language="javascript">
+var tabs = new Array();
+	tabs[0] = Array('0');
+	tabs[1] = Array('1');
+	//tabs[2] = Array('0');
+var TB=2; // Set to the t# for the span that's selected by default
+
+function ymst(o,i){
+	if(i==TB)return false;
+	fm=document.SearchForm;
+	fm.cx.value=tabs[i-1][0];
+
+	getObj('t'+i).className="sel";
+	getObj('t'+TB).className="norm";
+
+	if(TB-1>0&&(TB-1)!=i){
+		getObj('t'+(TB-1)).className="norm";
+	}
+	if(i-1>0){
+		getObj('t'+(i-1)).className="norm";
+	}
+	TB=i;
+	if(i!=3) {
+		fm.N.value="0";
+	}
+}
+</script>
+
+</div><!-- mast -->
+
+
+<table id="searchbar" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr><td width="170" bgcolor="#000000">&nbsp;
+</td>
+	<td class="divider" style="padding:0"><a href="https://store.law.com/registration/register.asp?subscribeto=nw">Register for Law.com Newswire</a></td>
+	<td class="divider" style="padding: 0pt 35px 0px 0px; width: 150px;"><a href="http://www.law.com/service/newsletter.shtml">Newsletters</a></td>
+	<td width="46" style="padding:0 0 0 5px; background-color:#073E7F"><a href="http://www.law.com/service/rss.shtml"><img src="http://www.law.com/images/frontpage/rss_icon_nobg.gif" wwidth="36" hheight="14" hspace="0" vspace="0" border="0" /></td>
+</tr>
+
+
+</tbody>
+</table>
+
+<div id="threecolumncontainer">
+<div id="pagebody">
+<div id="left">
+<!-- SiteCatalyst code version: H.21. Copyright 1996-2010 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
+<script language="javascript" type="text/javascript">
+   var s_account = "almglobal,almlaw";
+</script>
+<script language="JavaScript">
+   var s_linkInternalFilters="javascript:,law.com/jsp/law,legalblogwatch.typepad.com,store.law.com,localhost"
+</script>
+<script language="JavaScript" type="text/javascript" src="https://www.law.com/js/metrics/s_code.js"></script>
+<script language="JavaScript" type="text/javascript">
+   <!--
+
+var pageTitle=document.title;
+var blogTitle = "";
+var blogName = "legal blog watch";
+var theUrl = window.location.pathname.split( '/' );
+
+pageTitle = pageTitle.split("Legal Blog Watch: ").join("");
+pageTitle = pageTitle.split("Legal Blog Watch").join("");
+
+pageTitle = pageTitle.toLowerCase();
+
+if(location.pathname.indexOf("legal_blog_watch/20") > 0){
+   if(location.pathname.indexOf("index.html") > 0){
+      var urlMonth = theUrl[3];
+      var urlYear = theUrl[2];
+        
+      if (urlMonth == "01"){
+         urlMonth = "january";
+      }
+      else if (urlMonth == "02"){
+         urlMonth = "february";
+      }
+      else if (urlMonth == "03"){
+         urlMonth = "march";
+      }
+      else if (urlMonth == "04"){
+         urlMonth = "april";
+      }
+      else if (urlMonth == "05"){
+         urlMonth = "may";
+      }
+      else if (urlMonth == "06"){
+         urlMonth = "june";
+      }
+      else if (urlMonth == "07"){
+         urlMonth = "july";
+      }
+      else if (urlMonth == "08"){
+         urlMonth = "august";
+      }
+      else if (urlMonth == "09"){
+         urlMonth = "september";
+      }
+      else if (urlMonth == "10"){
+         urlMonth = "october";
+      }
+      else if (urlMonth == "11"){
+         urlMonth = "november";
+      }
+      else if (urlMonth == "12"){
+         urlMonth = "december";
+      }
+      else {
+         urlMonth = "archive";
+      }
+      
+      pageTitle = urlMonth + " " + urlYear;
+   }
+   else {
+      var urlPath = theUrl[4];
+	
+      urlPath = urlPath.split("html").join("");
+      urlPath = urlPath.split("-").join(" ");
+
+      blogTitle = urlPath;
+      pageTitle = "blog";
+   }
+}
+   
+if(pageTitle == ""){
+   pageTitle = "home";  
+}
+
+if (pageTitle != ""){
+  pageTitle = pageTitle;
+}
+  
+if(location.pathname.indexOf("legal_blog_watch") > 0){
+   blogName = "legal blog watch";     
+}
+
+
+function _scStrip(a){
+  a = a.split("|").join("");
+  a = a.split("&").join("");
+  a = a.split("'").join("");
+  a = a.split("#").join("");
+  a = a.split("$").join("");
+  a = a.split("%").join("");
+  a = a.split("^").join("");
+  a = a.split("*").join("");
+  a = a.split("!").join("");
+  a = a.split("<").join("");
+  a = a.split(">").join("");
+  a = a.split("~").join("");
+  a = a.split(";").join("");
+  a = a.split("-").join("");
+  a = a.split(".").join("");
+  a = a.split("Legal Blog Watch: ").join(""); 
+  a = a.split(": ").join(":");
+  a = a.split(" :").join(":");
+  return a;    
+    }
+   
+
+        /* Set SC Vars */
+	s_account=""
+	s.server="law"
+	s.pageName=s.server + ":" + blogName + ":" + _scStrip(pageTitle);
+	s.channel=s.server + ":" + blogName + ":" + _scStrip(pageTitle);
+
+	s.prop1=s.server + ":" + blogName;	// Site Section
+	s.prop2=s.server + ":" + blogName + ":" + _scStrip(pageTitle);	// Site SubSection
+	s.prop3=s.prop2;	// Site SubSection Detail
+	s.prop4=s.prop3;	// Additional SubSection Level  
+	
+	s.prop5=""	// Links - Page Name
+	s.prop6=""	// Links - Global Link Name
+	s.prop7=""	// Links - Page Name/Link Name
+	s.prop8=""	// Links - Link Position
+
+	s.prop9=""	// Internal Search Terms
+
+	s.prop10=""	//
+	
+	s.prop11=""	// Content ID
+	s.prop12=_scStrip(blogTitle)	// Content Title
+	s.prop13=""	// Content Type
+	s.prop14=""	// Content Byline
+	s.prop15=""	// Content Source
+	s.prop16=""	// Content Subscription Status
+	
+	s.prop17=""	 // Leads - Application Name
+
+	s.prop18=""	// Photo - Audio Gallery Name
+	s.prop19=""	// Photo - Audio Title
+	
+	s.prop20="" //
+	s.prop21=""	// User - ID Email
+	s.prop22=""	// User - Subscription Type
+	
+	s.prop23=""	// New/Repeat Visitor (30 days)
+	s.prop24=""	// New Visitor
+	s.prop25=""	// Repeat Visitor
+	s.prop26=""	// GeoSegmentation
+	s.prop27=""	// Times Visited Per Month
+	s.prop28=""	// Days Since Last Visit
+
+	s.prop29=""	// Share - Name
+	s.prop30=""	//Blog Title
+	
+	s.prop31=""	// Blog ID
+	s.prop32=_scStrip(blogTitle);	// Blog Name
+	s.prop33=""	// Detail Content Category
+	s.prop34=""	// 
+	s.prop35=""	// 
+
+	s.prop36=""	// Advertiser Name
+	s.prop37=""	// 
+	s.prop38=""	// 
+	s.prop39=""	// Playlist Name
+	s.prop40=""	// Finding Method
+	
+	s.prop41=""	// Time
+	s.prop42=""	// Day
+
+	s.prop43=""	// 
+	s.prop44=""	// 
+	s.prop45=""	// 
+
+	s.prop46=""	// Channel - Name
+	s.prop47=""	// Channel - Partner
+	s.prop48=""	// Channel - Typed Keyword
+
+	s.prop49=""	// 
+	s.prop50=""	// 
+
+        s.events="" // Events
+	
+	/********** DO NOT ALTER ANYTHING BELOW THIS LINE ! **********/
+
+	var s_code=s.t();if(s_code)document.write(s_code)
+   //-->
+</script>
+     
+<script language="JavaScript" type="text/javascript"><!--if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')//--></script>
+
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://alm.122.2o7.net/b/ss/almMainDev/1/H.21--NS/0" height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+
+
+
+
+<!-- END SITECATALYST CODE -->
+
+
+
+<div id="leftTop">
+<h2>Law.com Blog Network</h2>
+
+<p class="about"><a href="https://legalblogwatch.typepad.com/legal_blog_watch/about.html"><strong>About The Bloggers</strong> </a></p>
+</div>
+
+<div id="bloglist">
+<ul>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://amlawdaily.typepad.com/amlawdaily/">The Am Law Daily</a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://www.atlawblog.com">ATLawblog</a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://www.blawgreview.com/">Blawg Review </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=hhttp://legaltimes.typepad.com/blt/">The BLT: The Blog of Legal Times </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://thecareerist.typepad.com/thecareerist/">The Careerist </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://commonscold.typepad.com/commonscold/">The Common Scold </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://www.counseltocounsel.com/">Counsel to Counsel </a><br /></li>
+
+<!-- a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://blogs.law.com/federalism">Crime & Federalism </a><br / -->
+
+<!-- li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://www.dealwatchblog.com/">The Daily Report's Deal Watch</a><br /></li -->
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://www.eddupdate.com/">EDD Update </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://estrinlegaled.typepad.com/">The Estrin Report </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://www.futurelawyer.com/">FutureLawyer </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://howappealing.law.com/">How Appealing </a><br /></li>
+
+<!--
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://www.inhouseblog.com/">InhouseBlog </a><br /></li>
+-->
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://ip-updates.blogspot.com/">I/P Updates</a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://www.iphonejd.com/">iPhone J.D.</a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://blogs.law.com/employerslawyer">Jottings by an Employer's Lawyer </a><br /></li>
+
+<!--a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://lawcatalog.typepad.com">LawCataBlog </a><br /-->
+
+<!-- <li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://lawdepartmentmanagement.typepad.com">Law Department<br>
+Management </a><br /></li> -->
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://blog.larrybodine.com/">Larry Bodine LawMarketing Blog </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://www.lawyercasting.com/">LawyerCasting</a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://www.leadershipforlawyers.typepad.com/">Leadership for Lawyers </a> <br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://thelegalintelligencer.typepad.com/">The Legal Intelligencer Blog </a> <br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://legalpad.typepad.com/">Legal Pad </a> <br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://arnieherz.com/">legal sanity </a> <br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://blogs.law.com/mayitpleasethecourt">May It Please The Court </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://blogs.law.com/myshingle">My Shingle </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://www.newyorkpersonalinjuryattorneyblog.com/">New York Personal Injury Law Blog </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://thepriorart.typepad.com/">The Prior Art</a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://www.lawsitesblog.com">Robert Ambrogi's<br />LawSites</a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&amp;lrurl=http://www.shearsocialmedia.com">Shear on Social Media Law</a><br /></li>
+
+<!-- <li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://smartlitigatorblog.typepad.com">Smart Litigator Blog </a><br /></li> -->
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://texaslawyer.typepad.com/">Tex Parte </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://employmentlawgroupblog.com/">Whistleblower Law Blog</a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://www.wiredgc.com/">Wired GC </a><br /></li>
+
+<li><a target="new" class="linelink" href="https://store.law.com/linkredirector/default.asp?lrcat=BLOGNetwork&lrurl=http://www.texaslawyer.typepad.com/work_matters/">Work Matters </a></li>
+</ul>
+</div><!--bloglist-->
+
+
+
+<h3>Blogroll</h3>
+<ul>
+<li><a target="new" class="linelink" href="http://abovethelaw.com/">Above the Law</a><br /></li>
+<li><a target="new" class="linelink" href="https://althouse.blogspot.com">Althouse</a><br /></li>
+<li><a target="new" class="linelink" href="http://www.bagandbaggage.com/">Bag and Baggage</a><br /></li>
+<li><a target="new" class="linelink" href="http://www.denniskennedy.com/blog">Dennis Kennedy</a><br /></li>
+<li><a target="new" class="linelink" href="http://ernieattorney.typepad.com">Ernie the Attorney</a><br /></li>
+<li><a target="new" class="linelink" href="http://www.patentbaristas.com">Patent Baristas</a><br /></li>
+<li><a target="new" class="linelink" href="http://patentlaw.typepad.com">Patently-O</a><br /></li>
+<li><a target="new" class="linelink" href="http://prawfsblawg.blogs.com">PrawfsBlawg</a></li>
+<li><a target="new" class="linelink" href="http://www.professorbainbridge.com">Professor Bainbridge</a><br /></li>
+<li><a target="new" class="linelink" href="http://www.scotusblog.com/">SCOTUSblog </a><br /></li>
+<li><a target="new" class="linelink" href="http://volokh.com">Volokh Conspiracy </a><br /></li>
+<li><a target="new" class="linelink" href="http://blogs.wsj.com/law">The Wall Street Journal's Law Blog </a><br /></li>
+</ul>
+</div>
+
+
+</div>
+<!--center content stack-->
+<div id="center">
+
+
+
+<!--MTWeblogPostIfShow field="date_header">
+
+<h2>June 25, 2013</h2>
+
+</MTWeblogPostIfShow-->
+
+<a id="a6a00d8341cce2453ef019103ca3da6970c"></a>
+
+<!--BEGIN POST-->
+
+<h4> <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/use-hyperlinks-dont-bitch-slap-and-other-tips-from-a-cranky-federal-judge.html">Use Hyperlinks, Don't 'Bitch-Slap' -- and Other Tips from a 'Cranky' Federal Judge</a></h4>
+
+
+
+<p>The <a class="linelink" href="http://www.abajournal.com/news/article/around_the_blawgosphere_washington_lee_barterball_writing_man_of_steel/" target="new">legal blogosphere</a> is <a class="linelink" href="http://associatesmind.com/2013/06/24/burn-bryan-garners-books/" target="new">taking note</a> of an amusing new <a class="linelink" href="http://herculesandtheumpire.com/2013/06/20/top-ten-legal-writing-hints-when-the-audience-is-a-cranky-federal-trial-judge/" target="new">guide to legal writing</a>, courtesy of Senior U.S. District Court Judge Richard G. Kopf and his entertaining blog, <a class="linelink" href="http://herculesandtheumpire.com/" target="new"><em>Hercules and the Umpire</em></a>. (Hat tip: <a class="linelink" href="http://lawyerist.com/judge-never-send-me-something-unless-someone-less-dumb-than-you-has-read-it-first/" target="new"><em>Lawyerist</em></a>)</p>
+<p>Kopf, who joined the <a class="linelink" href="http://www.lawsitesblog.com/2013/04/a-quick-survey-of-blogs-written-by-judges.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-quick-survey-of-blogs-written-by-judges" target="new">short list</a> of judge-bloggers earlier this year, <a class="linelink" href="http://www.law.com/jsp/article.jsp?id=1201514746930" target="new">made waves</a> back in 2008 with an irreverent Top 10 style <a class="linelink" href="http://heinonline.org/HOL/LandingPage?collection=journals&amp;handle=hein.journals/osjcl5&amp;div=38&amp;id=&amp;page=" target="new">critique</a> of the U.S. Supreme Court&#39;s sentencing decisions, published in the <em>Ohio State Journal of Criminal Law.&#0160;</em>Kopf took on the high court again this April in a blog post titled <a class="linelink" href=" http://herculesandtheumpire.com/2013/04/24/the-frequent-irrelevancy-of-the-supreme-court/" target="new">&quot;The frequent irrelevancy of the Supreme Court.&quot;</a> Now he&#39;s back to the Top 10 format with some words of wisdom for attorneys submitting briefs to him and to &quot;other all-knowing beings who ascend the federal trial bench, both literally and figuratively.&quot;</p>
+<p>
+Here&#39;s a sampling of Kopf&#39;s <a class="linelink" href="http://herculesandtheumpire.com/2013/06/20/top-ten-legal-writing-hints-when-the-audience-is-a-cranky-federal-trial-judge/" target="new">&quot;Top ten legal writing hints when the audience is a cranky federal trial judge&quot;</a> (some of which he illustrates with links to relevant Urban Dictionary definitions and YouTube videos):</p>
+<ul>
+<li><strong><em>Unless you are retrograde … or the judge won&#39;t allow it, <a class="linelink" href="http://herculesandtheumpire.com/2013/05/08/resistance-is-futile-more-about-hyperlinks/ " target="new"> hyperlink</a> to cases and citations to the record.  Remember, 9 out of 10 times a law clerk -- not the trial judge -- is the only one closely reading your stuff.  (Oh, don&#39;t pretend to be shocked!) …</em></strong></li>
+</ul>
+<ul>
+<li><em><strong>If you send me a brief knowing that you will lose, but you are hoping to &quot;educate&quot; me, you are, in the words of the greatest of all legal minds, Gene Wilder, one <a class="linelink" href="https://www.youtube.com/watch?v=RV-nDFpOJeU" target="new">&quot;stupid, ignorant son of bitch, dumb bastard.&quot;</a></strong></em></li>
+</ul>
+<ul>
+<li><strong><em>Is it too much to ask you to read and follow the local rules?  Remember the venerable Latin legal maxim:  <a class="linelink" href="https://www.urbandictionary.com/define.php?term=rules" target="new">Rules are the opposite of sucks.</a></em></strong></li>
+</ul>
+<ul>
+<li><strong><em>Please don&#39;t &quot;bitch-slap&quot; your opponent.  It only makes me want to do the same to you, but in <a class="linelink" href="https://www.youtube.com/watch?v=3BRw_ihZRJI" target="new">super slow motion</a>.</em></strong></li>
+</ul>
+<p>
+And, at a time in which all eyes are on the Supreme Court, Kopf doesn&#39;t spare the justices. He calls last year&#39;s feud between Seventh Circuit Judge Richard Posner and Justice Antonin Scalia (and Scalia&#39;s co-author Bryan Garner) &quot;a juvenile <a class="linelink" href="http://www.huffingtonpost.com/eric-segall/scalia-posner_b_1883750.html" target="new">cat fight</a> over a book about rules.&quot; And, when it comes to writing, Kopf suggests one justice to emulate. </p>
+<ul>
+<li><strong><em>Justice Scalia writes smack. You can&#39;t. Justice Kennedy waxes grand eloquent. You can&#39;t. Justice Breyer writes <a class="linelink" href="https://www.nytimes.com/1995/07/28/us/in-justice-breyer-s-opinion-a-footnote-has-no-place.html" target="new">simply</a>.  You should.</em></strong></li>
+</ul>
+<p>
+The rest of Kopf&#39;s tips are <a class="linelink" href="http://herculesandtheumpire.com/2013/06/20/top-ten-legal-writing-hints-when-the-audience-is-a-cranky-federal-trial-judge/" target="new">here</a>.&#0160;</p>
+
+
+
+
+
+
+<p class="posted">
+Posted by Product Team on June 25, 2013 at 03:51 PM | <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/use-hyperlinks-dont-bitch-slap-and-other-tips-from-a-cranky-federal-judge.html">Permalink</a>
+
+| <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/use-hyperlinks-dont-bitch-slap-and-other-tips-from-a-cranky-federal-judge.html#comments">Comments (0)</a>
+
+</p>
+<!--END POST-->
+
+
+
+<!-- tweet -->
+<span class="entry-footer-links-twitter" style="float: left;margin-right: 15px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html?url=https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/use-hyperlinks-dont-bitch-slap-and-other-tips-from-a-cranky-federal-judge.html&text=Use Hyperlinks, Don't 'Bitch-Slap' -- and Other Tips from a 'Cranky' Federal Judge&count=none" style="width:55px; height:20px;"></iframe>
+</span>
+<!-- facebook like -->
+<iframe src="https://www.facebook.com/widgets/like.php?href=https%3A%2F%2Flegalblogwatch.typepad.com%2Flegal_blog_watch%2F2013%2F06%2Fuse-hyperlinks-dont-bitch-slap-and-other-tips-from-a-cranky-federal-judge.html" scrolling="no" frameborder="0" style="border:none; width:355px; height:80px"></iframe>
+</MTentryfooter>
+
+
+
+
+
+<!--MTWeblogPostIfShow field="date_header">
+
+<h2>June 19, 2013</h2>
+
+</MTWeblogPostIfShow-->
+
+<a id="a6a00d8341cce2453ef0191037fc169970c"></a>
+
+<!--BEGIN POST-->
+
+<h4> <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/terroristic-tattoo-spells-trouble.html">'Terroristic' Tattoo Spells Trouble for Minn. Man</a></h4>
+
+
+
+<p>The <a class="linelink" href="http://www.twincities.com/localnews/ci_23478932/man-violent-tattoo-gets-probation-threat-minneapolis-cop.html" target="new"><em>Pioneer Press</em></a> (via <a class="linelink" href="http://www.abajournal.com/news/article/pig-and-gun_tattoo_Facebook/" target="new"><em>ABA Journal</em></a>) has the story of a Minnesota man who was sentenced to probation this week after pleading guilty to making a terroristic threat against a police officer -- a threat that took the unusual form of a tattoo of a pig. </p>
+<p>
+Twenty-one-year-old Antonio Jenkins Jr., reputedly a member of the Bloods street gang, was charged after he posted a photo on Facebook of a tattoo on his bicep that depicted a person holding a gun to the mouth of a pig. The <em>Pioneer Press</em> <a class="linelink" href="http://www.twincities.com/localnews/ci_23478932/man-violent-tattoo-gets-probation-threat-minneapolis-cop.html" target="new">reports</a> that, according to the criminal complaint, the pig was &quot;wearing a police hat and uniform with a patch on the right shoulder with &#39;Mpls. 8230&#39; and a nameplate with the name &#39;J. Seidel&#39; under the patch. Below the &#39;J. Seidel&#39; were the words &#39;F--- the police.&#39;&quot;</p>
+<p>
+The message was allegedly intended to threaten Minneapolis police officer Jeffrey Seidel, who works in the gang investigation team. In a caption on the photo, Jenkins wrote, &quot;My tattoo iz a pig get&#39;n his brains blew out.&quot; The criminal complaint noted that 18 people had &quot;Liked&quot; the photo on Facebook. </p>
+<p>
+In November 2012, Jenkins <a class="linelink" href="http://www.twincities.com/localnews/ci_21957772/minneapolis-tattoo-pig-gun-is-threat-officer-charges" target="new">was charged</a> with making a terroristic threat for the benefit of a gang. At the time, he was on supervised release after serving a prison sentence for a robbery conviction. </p>
+<p>
+Hennepin County Attorney Mike Freeman <a class="linelink" href="http://www.twincities.com/localnews/ci_21957772/minneapolis-tattoo-pig-gun-is-threat-officer-charges" target="new">said</a> at the time of Jenkins&#39; arrest that the tattoo communicated a clear and specific threat against Seidel. &quot;It identifies a specific police officer by name and badge number, and expresses a clear threat to him -- &#39;I&#39;m going to kill you&#39; -- and then [Jenkins] publicizes it,&quot; Freeman said. &quot;He&#39;s a known Blood, and the officer works in the area. The whole series of things made it enough to press the charge.&quot; </p>
+<p>
+Jenkins was offered a plea deal after he had parts of the tattoo inked over, the <em>Pioneer Press</em> <a class="linelink" href="http://www.twincities.com/localnews/ci_23478932/man-violent-tattoo-gets-probation-threat-minneapolis-cop.html" target="new">writes</a>. Jenkins&#39; public defender, Cynthia McCollum, stated at the plea hearing Monday that Jenkins&#39; tattoo is &quot;basically a black spot now.&quot; McCollum had said <a class="linelink" href="http://www.twincities.com/localnews/ci_22380073/st-louis-park-man-tattoo-cop-wants-it" target="new">at a hearing in January</a> that Jenkins wanted the tattoo removed, but that state funds to pay for removal of gang-related body art were not available. </p>
+<p>
+News reports and commentary on Jenkins&#39; case discuss the interesting question of whether Jenkins could have raised a successful First Amendment defense at trial.</p>
+<p>
+University of Minnesota Law School professor Dale Carpenter <a class="linelink" href="http://www.twincities.com/localnews/ci_23478932/man-violent-tattoo-gets-probation-threat-minneapolis-cop.html" target="new">told</a> the <em>Pioneer Press</em> at the time of Jenkins&#39; arrest that he doubted the tattoo would be considered protected speech. &quot;It&#39;s a serious threat to the health or life of another person and such statements, no matter what form they&#39;re made in -- written, verbal, put on Facebook or put on your body -- it is unprotected,&quot; Carpenter said. </p>
+<p>
+&quot;He can say, &#39;I hate the police&#39; or he can say, &#39;that police officer is corrupt&#39; or he can criticize him,&quot; Carpenter said, &quot;but he does cross the line when he makes a threat.&quot; </p>
+<p>
+But Chuck Samuelson, the executive director of the American Civil Liberties Union of Minnesota who was interviewed in a <a class="linelink" href="http://www.startribune.com/local/west/178033931.html?refer=y" target="new"><em>Star Tribune</em> report</a> on Jenkins&#39; arrest, said that calling the tattoo a terroristic threat was &quot;a big leap.&quot; </p>
+<p>
+&quot;For terroristic threats you have to brandish a gun or a gun lookalike. … Basically we have someone making fun of the police,&quot; Samuelson said. &quot;Bad manners, you bet,&quot; he said. &quot;Criminal? No.&quot; </p>
+<p>
+In his <a class="linelink" href="http://blog.simplejustice.us/2012/11/10/fighting-tats.aspx?ref=rss
+" target="new">post</a> on the case on the <em>Simple Justice</em> blog, criminal defense attorney Scott Greenfield agreed, writing that the fact that Jenkins was &quot;being prosecuted because an incredibly ugly image on his body makes the cops feel angry and hurt, not to mention disrespected, goes well over the line. There is no crime here, except against good taste.&quot; </p>
+<p>
+At the plea hearing Monday, Hennepin County District Judge Lyonel Norris set as conditions of Jenkins&#39; probation that he have no contact with Seidel and commit no new crimes. The judge also offered Jenkins some advice about more appropriate themes for any future body art: &quot;Next time you want to get a tattoo, flowers would be nice.&quot; </p>
+
+
+
+
+
+
+<p class="posted">
+Posted by Product Team on June 19, 2013 at 04:33 PM | <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/terroristic-tattoo-spells-trouble.html">Permalink</a>
+
+| <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/terroristic-tattoo-spells-trouble.html#comments">Comments (0)</a>
+
+</p>
+<!--END POST-->
+
+
+
+<!-- tweet -->
+<span class="entry-footer-links-twitter" style="float: left;margin-right: 15px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html?url=https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/terroristic-tattoo-spells-trouble.html&text='Terroristic' Tattoo Spells Trouble for Minn. Man&count=none" style="width:55px; height:20px;"></iframe>
+</span>
+<!-- facebook like -->
+<iframe src="https://www.facebook.com/widgets/like.php?href=https%3A%2F%2Flegalblogwatch.typepad.com%2Flegal_blog_watch%2F2013%2F06%2Fterroristic-tattoo-spells-trouble.html" scrolling="no" frameborder="0" style="border:none; width:355px; height:80px"></iframe>
+</MTentryfooter>
+
+
+
+
+
+<!--MTWeblogPostIfShow field="date_header">
+
+<h2>June 12, 2013</h2>
+
+</MTWeblogPostIfShow-->
+
+<a id="a6a00d8341cce2453ef019103444462970c"></a>
+
+<!--BEGIN POST-->
+
+<h4> <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/tenth-circuit-says-man-can-sue-over-image-on-license-plates-.html">Tenth Circuit Gives Man License to Sue Over 'Rain God'</a></h4>
+
+
+
+<p>The U.S. Court of Appeals for the Tenth Circuit has revived a lawsuit by an Oklahoma man who objects to the image of a Native American sculpture on the state&#39;s license plates because its message conflicts with his Christian beliefs. The Associated Press <a class="linelink" href="http://www.sfgate.com/news/article/Court-Man-can-challenge-Oklahoma-rain-god-plate-4593657.php" target="new">reports</a> that the court decided that Keith Cressman &quot;can sue the state over its Indian &#39;rain god&#39; license plate, ruling that the depiction of a noted sculpture on 3 million license plates could be interpreted as a state endorsement of a religion.&quot; (<a class="linelink" href="https://turtletalk.wordpress.com/2013/06/11/tenth-circuit-revives-establishment-clause-challenge-to-oklahomas-indian-arrow-license-plate/" target="new"><em>Turtle Talk</em></a>, the blog for the Indigenous Law and Policy Center at Michigan State University College of Law, has the filings in the case.) </p>
+<p>
+Oklahoma&#39;s license plate, <a class="linelink" href="http://www.tulsaworld.com/article.aspx/Sacred_Rain_Arrow_image_picked_for_new_plates/20080802_16_a1_spancl454650" target="new"> unveiled in 2008</a>, depicts artist Allan Houser&#39;s sculpture &quot;Sacred Rain Arrow.&quot; According to Cressman&#39;s suit, the sculpture is based on a Native American legend and shows an Apache warrior shooting an arrow into the sky so that the &quot;rain god&quot; or &quot;spirit world&quot; would answer prayers for rain in a time of drought. </p>
+<p>
+Cressman claims <a class="linelink" href="https://turtletalk.files.wordpress.com/2013/06/1-cressman-opening-brief.pdf" target="new"> in his suit</a> that the sculpture tells &quot;the story of a Native American who believes in sacred objects, multiple deities, the divinity of nature, and the ability of humans to use sacred objects to convince gods to alter nature.&quot; Its message, the suit says, &quot;promotes pantheism, panentheism, polytheism, and/or animism and promotes particular Native Americans&#39; social and cultural practices that accept these ideas.&quot; </p>
+<p>
+Cressman, the <a class="linelink" href="http://www.ca10.uscourts.gov/opinions/12/12-6151.pdf" target="new">Tenth Circuit opinion</a> says, &quot;adheres to historic Christian beliefs,&quot; including the principle that &quot;there is only one true God.&quot; He &quot;refrains from adopting or endorsing any message he believes might imply his approval of contrary beliefs, such as that God and nature are one, that other deities exist, or that &#39;animals, plants, rocks, and other natural phenomena&#39; have souls or spirits.&quot;
+</p>
+<p>Unwilling to display the image of the &quot;Sacred Rain Arrow&quot; sculpture on his car, Cressman opted for specialty license plates, which cost more and required renewal fees. Cressman claims that, to avoid the additional fees, he considered using the standard license plate and covering the offending image, but was told by state officials that he could be fined for doing so. </p>
+<p>
+Cressman filed a lawsuit in 2011 against a number of state officials, alleging violations of his First and Fourteenth Amendment rights. A federal district court <a class="linelink" href="https://turtletalk.files.wordpress.com/2012/05/dct-order-dismissing-cressman-complaint.pdf" target="new">dismissed the suit</a> in May of 2012, finding that Cressman had failed to state a &quot;compelled speech&quot; claim under the First Amendment. </p>
+<p>
+The Tenth Circuit on Tuesday <a class="linelink" href="http://www.ca10.uscourts.gov/opinions/12/12-6151.pdf" target="new">reversed</a> the order dismissing Cressman&#39;s complaint, finding that he plausibly alleges a claim of compelled speech under the U.S. Supreme Court&#39;s ruling in <a class="linelink" href="http://www.law.cornell.edu/supct/html/historics/USSC_CR_0430_0705_ZS.html" target="new"><em>Wooley v. Maynard</em></a>
+ -- a 1977 case in which a Jehovah&#39;s Witness challenged New Hampshire&#39;s use of the state motto, &quot;Live Free or Die,&quot; on its license plates. In that case, the court found that the state could not force individuals to either &quot;use their private property as a &#39;mobile billboard&#39; for the State&#39;s ideological message&quot; or pay a criminal penalty. </p>
+<p>
+The opinion discusses whether the display of the license plate constitutes &quot;symbolic speech&quot; that qualifies for First Amendment protection, and whether it conveys a &quot;particularized message.&quot; Symbolic speech claims, the court said, &quot;depend on circumstances and context.&quot;</p>
+<p>
+&quot;Perhaps few viewers of the Oklahoma license plate image would perceive the particularized message Mr. Cressman alleges.  But at this stage, without any evidentiary development, we must accept his allegations otherwise as true,&quot; the opinion states. </p>
+<p>
+The circuit held that Cressman has also &quot;plausibly alleged that he is compelled to speak because the image conveys a religious/ideological message, covering up the image poses a threat of prosecution, and his only alternative to displaying the image is to pay additional fees for specialty license plates that do not contain the image.&quot; </p>
+<p>
+Cressman, the panel court concluded, &quot;has alleged sufficient facts to suggest that the &#39;Sacred Rain Arrow&#39; image on the standard Oklahoma license plate conveys a particularized message that others are likely to understand and to which he objects.&quot; </p>
+
+
+
+
+
+
+<p class="posted">
+Posted by Product Team on June 12, 2013 at 04:39 PM | <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/tenth-circuit-says-man-can-sue-over-image-on-license-plates-.html">Permalink</a>
+
+| <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/tenth-circuit-says-man-can-sue-over-image-on-license-plates-.html#comments">Comments (4)</a>
+
+</p>
+<!--END POST-->
+
+
+
+<!-- tweet -->
+<span class="entry-footer-links-twitter" style="float: left;margin-right: 15px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html?url=https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/tenth-circuit-says-man-can-sue-over-image-on-license-plates-.html&text=Tenth Circuit Gives Man License to Sue Over 'Rain God'&count=none" style="width:55px; height:20px;"></iframe>
+</span>
+<!-- facebook like -->
+<iframe src="https://www.facebook.com/widgets/like.php?href=https%3A%2F%2Flegalblogwatch.typepad.com%2Flegal_blog_watch%2F2013%2F06%2Ftenth-circuit-says-man-can-sue-over-image-on-license-plates-.html" scrolling="no" frameborder="0" style="border:none; width:355px; height:80px"></iframe>
+</MTentryfooter>
+
+
+
+
+
+<!--MTWeblogPostIfShow field="date_header">
+
+<h2>June 11, 2013</h2>
+
+</MTWeblogPostIfShow-->
+
+<a id="a6a00d8341cce2453ef01901d3e42c5970b"></a>
+
+<!--BEGIN POST-->
+
+<h4> <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/actress-in-law-firm-ad-files-1-million-lawsuit.html">Law Firm's Viral TV Ad Leads to $1 Million Suit</a></h4>
+
+
+
+<p>An actress who starred in a popular advertisement for a New York personal injury law firm has <a class="linelink" href="http://www.abajournal.com/news/article/actress_who_starred_in_law_firm_ad_spoofing_faked_injuries_sues_ad_agency/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=ABA+Journal+Daily+News" target="new">filed a suit</a> alleging that the agency that produced the spot licensed the ad and her image to law firms around the country without her knowledge and without compensating her. She&#39;s seeking close to $1 million in compensation from the agency and the other law firms that licensed the ad.</p>
+<p>
+Elena Aroaz appeared in a 2009 advertisement for <a class="linelink" href="http://www.tgllaw.com/" target="new">Trolman, Glaser &amp; Lichtman</a> that spoofed gold-digging personal injury plaintiffs. The ad, called <a class="linelink" href="https://www.youtube.com/watch?v=-Eck-dlk0n4" target="new">&quot;Machete,&quot;</a> featured Aroaz sitting at a table discussing an injury in grave tones, with mournful piano music as the background score. &quot;The pain was excruciating,&quot; she says. &quot;It&#39;s like I had this huge, really sharp machete chopping down on me every time I tried to move.&quot; </p>
+<p>
+Soon, the nature of the wound is revealed: &quot;It was the worst paper cut I ever had. They made that paper way too sharp.&quot; Aroaz raises one index finger with a green bandage on it, saying, &quot;Someone has to pay.&quot; Text on the screen reads, &quot;There are some cases even we can&#39;t win.&quot; As the contact information for the law firm appears, a voiceover says: &quot;If you&#39;ve been injured, call us. But keep in mind, you really need to be injured.&quot; </p>
+<p>
+The ad had a companion spot, <a class="linelink" href="https://www.youtube.com/watch?v=KoDNdTXx-7U" target="new">&quot;Power,&quot;</a> in which a tearful man describes his &quot;pain and suffering&quot; at the hands of the power company when an outage interrupted the best video game of his life. The two Trolman, Glaser &amp; Lichtman advertisements were featured in a 2010 <a class="linelink" href="https://www.nytimes.com/2010/01/20/business/media/20adco.html" target="new"><em>New York Times</em> article</a> for their noteworthy use of (intentional) humor in promoting personal injury legal services. A <a class="linelink" href=" http://lawyerist.com/can-legal-marketing-be-viral/" target="new"> post</a> on the <em>Lawyerist</em> blog just a couple of months ago included the ads as examples of successful viral video legal marketing. </p>
+<p>
+The <em>New York Daily News</em> <a class="linelink" href="http://www.nydailynews.com/new-york/actress-files-1-million-breach-contract-lawsuit-article-1.1366762" target="new">reports</a> that Aroaz claims in her suit, filed in Manhattan Supreme Court, that she was paid $600 to appear in the ad and was told that it would air for a year on cable TV in New York. Instead, the suit alleges, the Levinson Tractenberg Group licensed the ad to law firms in New Mexico, Washington, Louisiana, Massachusetts, Kansas, South Carolina and Colorado, earning $250,000. </p>
+<p>
+According to her suit, after Aroaz found out that her face was on a billboard in Arizona, she confronted Levinson Tractenberg and was paid another $1,500 in 2012, the <em>Daily News</em> writes. Aroaz says she later discovered that the firm had paid $20,000 for the rights. </p>
+<p>
+The <a class="linelink" href="https://www.nypost.com/p/news/local/manhattan/law_ad_gal_sues_for_cut_Z0vllEQLgLGBgGnTRyh7VO" target="new"><em>New York Post</em> reports</a> that Aroaz&#39;s suit claims the ads are still airing and &quot;turn a very large profit at the expense of and to the detriment of the plaintiff.&quot; She also claims she has been typecast as a result of the ads, the <em>Post</em> writes.</p>
+
+
+
+
+
+
+<p class="posted">
+Posted by Product Team on June 11, 2013 at 04:38 PM | <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/actress-in-law-firm-ad-files-1-million-lawsuit.html">Permalink</a>
+
+| <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/actress-in-law-firm-ad-files-1-million-lawsuit.html#comments">Comments (1)</a>
+
+</p>
+<!--END POST-->
+
+
+
+<!-- tweet -->
+<span class="entry-footer-links-twitter" style="float: left;margin-right: 15px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html?url=https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/actress-in-law-firm-ad-files-1-million-lawsuit.html&text=Law Firm's Viral TV Ad Leads to $1 Million Suit&count=none" style="width:55px; height:20px;"></iframe>
+</span>
+<!-- facebook like -->
+<iframe src="https://www.facebook.com/widgets/like.php?href=https%3A%2F%2Flegalblogwatch.typepad.com%2Flegal_blog_watch%2F2013%2F06%2Factress-in-law-firm-ad-files-1-million-lawsuit.html" scrolling="no" frameborder="0" style="border:none; width:355px; height:80px"></iframe>
+</MTentryfooter>
+
+
+
+
+
+<!--MTWeblogPostIfShow field="date_header">
+
+<h2>June 10, 2013</h2>
+
+</MTWeblogPostIfShow-->
+
+<a id="a6a00d8341cce2453ef0192aaf92489970d"></a>
+
+<!--BEGIN POST-->
+
+<h4> <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/fifth-circuit-finds-breastfeeding-is-related-to-pregnancy.html">Fifth Circuit Finds Breastfeeding Is 'Related' to Pregnancy</a></h4>
+
+
+
+<p>While several new <a class="linelink" href="http://www.ibtimes.com/breastfeeding-enhances-babies-brain-development-mri-study-photo-1296445" target="new">health</a> <a class="linelink" href="http://healthland.time.com/2013/06/07/more-breast-feeding-could-save-billions-and-prevent-thousands-of-breast-cancer-cases/" target="new">studies</a> concerning breastfeeding are making the rounds, the topic has also been generating headlines in the employment law context, thanks to a recent Fifth Circuit ruling (<a class="linelink" href="http://texaslawyer.typepad.com/texas_lawyer_blog/2013/05/5th-circuit-employers-cant-fire-women-because-they-want-to-use-breast-pumps.html" target="new">as reported</a> in <em>Texas Lawyer</em>&#39;s <em>Tex Parte Blog</em>) involving the firing of a woman because she wanted to use a breast pump at work. </p>
+<p>
+According to <a class="linelink" href="http://www.ca5.uscourts.gov/opinions/pub/12/12-20220-CV0.wpd.pdf" target="new">the opinion</a>, when Donnicia Venters spoke to her boss at Houston Funding about using a breast pump at work upon her return from maternity leave, her request was met with a long pause, then the news that her position had been filled. The Equal Employment Opportunity Commission brought a Title VII action against Houston Funding, alleging the company had discriminated against Venters based upon her sex. </p>
+<p>
+U.S. District Court Judge Lynn Hughes (who has recently <a class="linelink" href="http://www.law.com/jsp/tx/PubArticleTX.jsp?id=1202587494394" target="new">made news</a> and <a class="linelink" href="http://abovethelaw.com/2013/02/judge-of-the-day-lynn-hughes-strikes-again-no-your-honor-south-asians-are-not-caucasians/" target="new">caught bloggers&#39; attention</a> for allegedly racially insensitive comments) <a class="linelink" href="https://www.cbsnews.com/8301-505125_162-57374699/judge-legally-breastfeeding-not-related-to-pregnancy/" target="new">granted summary judgment</a> in favor of Houston Funding, finding that Venters&#39; firing did not constitute sex discrimination because &quot;lactation is not pregnancy, childbirth, or a related medical condition.&quot; While &quot;cramping, dizziness, and nausea&quot; are conditions related to pregnancy, Hughes wrote, lactation does not make that list. After Venters gave birth, the opinion stated, &quot;she was no longer pregnant and her pregnancy-related conditions ended.&quot; </p>
+<p>
+Some took issue with this conclusion (including the <a class="linelink" href="http://www.texmed.org/Template.aspx?id=27356" target="new">Texas Medical Association</a>), and the Fifth Circuit has now registered its disagreement, <a class="linelink" href="http://www.ca5.uscourts.gov/opinions/pub/12/12-20220-CV0.wpd.pdf" target="new">vacating and remanding</a> Hughes&#39; opinion. The circuit found that the EEOC&#39;s claim that Venters was fired &quot;because she was lactating or expressing milk&quot; stated a cognizable sex discrimination claim under Title VII. &quot;An adverse employment action motivated by these factors clearly imposes upon a woman a burden that male employees need not -- indeed, could not -- suffer,&quot; the opinion states. </p>
+<p>
+The Fifth Circuit held that &quot;lactation is a related medical condition of pregnancy&quot; under the <a class="linelink" href="http://www.eeoc.gov/laws/statutes/pregnancy.cfm" target="new">Pregnancy Discrimination Act</a>. However, in a concurring opinion, Fifth Circuit Judge Edith Jones distinguished between Venters&#39; case and one in which a female employee might request &quot;special accommodations&quot; because of lactation, which Jones said would not be guaranteed under the act.   
+</p>
+<p>
+&quot;It follows that if Venters intended to request special facilities or down time during work to pump or &#39;express&#39; breast milk, she would not have a claim under Title VII or the PDA as of the date of her lawsuit,&quot; Jones wrote. &quot;Indeed, if providing a plaintiff with special accommodation to pump breast milk at work were required, one wonders whether a plaintiff could be denied bringing her baby to the office to breastfeed during the workday.&quot; </p>
+<p>
+On the <em>HealthLawProf Blog</em>, law professor Leslie Francis <a class="linelink" href="http://lawprofessors.typepad.com/healthlawprof_blog/2013/06/a-ruling-from-the-5th-circuit-pregnancy-and-breastfeeding-are-related.html" target="new">writes</a> that, although the Fifth Circuit ruling &quot;is apparently a favorable one for women and children, it also reveals ongoing mismatches between anti-discrimination law in the US and the health needs of workers and their families.&quot; </p>
+<p>
+&quot;The PDA prohibits differential treatment on the basis of sex but does not require any accommodations for pregnancy or lactation,&quot; Francis states. &quot;Venters won not because she asked for time to express milk but because her employer disapproved of her breastfeeding.&quot; Anti-discrimination law, she writes, &quot;all too often regard[s] breastfeeding as a &#39;lifestyle&#39; rather than a health issue.&quot; </p>
+<p>
+In <a class="linelink" href="https://www.aclu.org/blog/womens-rights-lgbt-rights-religion-belief/appeals-court-holds-breastfeeding-related-pregnancy" target="new">a post about the case</a> on the ACLU&#39;s <em>Blog of Rights</em>, Galen Sherwin echoes this concern about the lack of legal support for workplace accommodations, writing that, despite &quot;overwhelming public health justifications for breastfeeding, women who want to continue nursing when they return to paid work often face obstacles that force them to choose between their jobs and what they think is best for their babies.&quot; </p>
+<p>
+&quot;At a fundamental level, workplace policies that are structured around an “ideal” worker who never gets pregnant, gives birth, or breastfeeds -- in other words, a male worker -- look an awful lot like institutionalized sexism,&quot; Galen writes. </p>
+
+
+
+
+
+
+<p class="posted">
+Posted by Product Team on June 10, 2013 at 05:11 PM | <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/fifth-circuit-finds-breastfeeding-is-related-to-pregnancy.html">Permalink</a>
+
+| <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/fifth-circuit-finds-breastfeeding-is-related-to-pregnancy.html#comments">Comments (1)</a>
+
+</p>
+<!--END POST-->
+
+
+
+<!-- tweet -->
+<span class="entry-footer-links-twitter" style="float: left;margin-right: 15px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html?url=https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/fifth-circuit-finds-breastfeeding-is-related-to-pregnancy.html&text=Fifth Circuit Finds Breastfeeding Is 'Related' to Pregnancy&count=none" style="width:55px; height:20px;"></iframe>
+</span>
+<!-- facebook like -->
+<iframe src="https://www.facebook.com/widgets/like.php?href=https%3A%2F%2Flegalblogwatch.typepad.com%2Flegal_blog_watch%2F2013%2F06%2Ffifth-circuit-finds-breastfeeding-is-related-to-pregnancy.html" scrolling="no" frameborder="0" style="border:none; width:355px; height:80px"></iframe>
+</MTentryfooter>
+
+
+
+
+
+<!--MTWeblogPostIfShow field="date_header">
+
+<h2>June 07, 2013</h2>
+
+</MTWeblogPostIfShow-->
+
+<a id="a6a00d8341cce2453ef0192aac8f4d9970d"></a>
+
+<!--BEGIN POST-->
+
+<h4> <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/a-judge-smash-in-sentencing-dispute-with-prosecutors.html">A 'Judge Smash' in Sentencing Dispute With Prosecutors</a></h4>
+
+
+
+<p>It&#39;s not unusual for judges and prosecutors to fail to see eye-to-eye on criminal sentencing issues. But it might just be a first for a federal judge to send an email comparing herself to a comic book character known for morphing into a large, green, superhuman &quot;Hulk,&quot; and warn lawyers in the U.S. Attorney&#39;s Office, &quot;You won&#39;t like me when I&#39;m angry.&quot; The email has, not surprisingly, garnered some interest -- as has the resignation of the prosecutor who received it.</p>
+<p>
+The <a class="linelink" href="http://www.desmoinesregister.com/article/20130605/NEWS/306050045/Register-Exclusive-Judge-in-Iowa-acts-as-prosecutor-in-chief-defense-lawyer-claims?Frontpage&amp;nclick_check=1" target="new"><em>Des Moines Register</em></a> (via the <a class="linelink" href="http://sentencing.typepad.com/sentencing_law_and_policy/2013/06/new-federal-judge-in-iowa-accused-of-acting-as-prosecutor-in-chief-at-sentencing.html" target="new"><em>Sentencing Law and Policy</em></a> blog and <a class="linelink" href="http://www.abajournal.com/news/article/federal_judge_clashes_with_prosecutors_over_seeking_info_that_could_extend_/" target="new"><em>ABA Journal</em></a>) has the story of the clash between U.S. District Judge Stephanie Rose and prosecutors in the Southern District of Iowa U.S. Attorney&#39;s Office over sentencing in several criminal cases. Rose, who <a class="linelink" href="http://blogs.desmoinesregister.com/dmr/index.php/2012/09/10/stephanie-rose-confirmed-as-first-female-federal-judge-in-iowas-southern-district" target="new">was confirmed</a> as a federal judge last September in a U.S. Senate vote of 89-1, is the country&#39;s youngest federal judge at 40 years old. She had been a longtime federal prosecutor and served as the U.S. Attorney for the Northern District of Iowa before her appointment to the bench. </p>
+<p>
+The <em>Des Moines Register</em> <a class="linelink" href="http://www.desmoinesregister.com/article/20130605/NEWS/306050045/Register-Exclusive-Judge-in-Iowa-acts-as-prosecutor-in-chief-defense-lawyer-claims?Frontpage&amp;nclick_check=1" target="new">reviewed</a> recently unsealed emails sent between Rose and federal prosecutors concerning the case of a convicted drug dealer named Bryan Holm. In that case, the <em>Register</em> reports, &quot;Rose ordered prosecutors to provide evidence that could extend Holm&#39;s prison sentence on a weapons charge. When they refused, citing a plea agreement they had signed, Rose called a police officer to the stand, questioned the officer herself and imposed a sentence that was two to three years longer than what prosecutors had contemplated.&quot; </p>
+<p>
+Several hours after the sentencing hearing, Rose sent <a class="linelink" href="https://www.documentcloud.org/documents/708908-stephanie-rose-email-regarding-judges.html" target="new"> an email</a> to Shannon Olson, the appellate chief at the U.S. Attorney&#39;s Office. The message, which had the subject line &quot;Hulk,&quot; read: &quot;You know how Bruce Banner says &#39;You won&#39;t like me when I&#39;m angry?&#39; There&#39;s a lesson in there for all attorneys. Enjoy that transcript.&quot; </p>
+<p>Along with reports on the email, news broke this week of Olson&#39;s resignation from the U.S. Attorney&#39;s Office. The <a class="linelink" href="http://www.desmoinesregister.com/article/20130606/NEWS/306060030/Prosecutor-who-got-Hulk-email-from-federal-judge-leaves-Justice-Department" target="new"><em>Des Moines Register</em></a> reported Thursday that a spokesperson for the U.S. Attorney&#39;s Office confirmed that Olson no longer works for the office but declined to discuss the circumstances of her departure. </p>
+<p>In <a class="linelink" href="https://www.documentcloud.org/documents/708909-stephanie-rose-filing-by-aclu.html" target="new">court documents</a> related to an appeal of Holm&#39;s sentence, Holm&#39;s attorney Dean Stowers suggests that the &quot;Hulk&quot; email might have been related to Olson&#39;s potential role as a witness in an age discrimination suit brought by a former assistant U.S. attorney, as well as to a clash over sentencing in several cases.</p>
+<p>
+The <em>Des Moines Register</em> <a href="http://www.desmoinesregister.com/article/20130605/NEWS/306050045/Register-Exclusive-Judge-in-Iowa-acts-as-prosecutor-in-chief-defense-lawyer-claims?Frontpage&amp;nclick_check=1" target="new">writes</a>
+ that Rose has been at odds with the U.S. Attorney&#39;s Office in several 
+other criminal cases as well, and that she corresponded by email in 
+January with U.S. Attorney Nicholas Klinefeldt to express her 
+frustration with what she called &quot;global issues&quot; with prosecutors&#39; 
+actions. </p>
+<p>
+“I&#39;m troubled by your office&#39;s occasional refusal to provide relevant 
+discovery information to the United States Probation Office,&quot; Rose wrote
+ to Klinefeldt. &quot;I&#39;m baffled by similar refusals to provide relevant 
+sentencing information to me.&quot; She cited several criminal cases in which
+ she said prosecutors refused to provide evidence that could have 
+increased defendants&#39; sentences. </p>
+<p>
+In the filing regarding Holm&#39;s case, Stowers <a class="linelink" href="https://www.documentcloud.org/documents/708909-stephanie-rose-filing-by-aclu.html" target="new">writes</a> that the &quot;Hulk&quot; email &quot;has to be construed as a strong caution to Olson and her prosecutor colleagues to not do something that would make the Court &#39;angry&#39; because that would cause the Court to react like the &#39;Hulk&#39;. One can fairly assume the Court was not intending physical assault or destruction of property, but was alluding to the use of the Court&#39;s judicial power against those that made the Court &#39;angry&#39;.&quot; </p>
+<p>
+Stowers argues that the email &quot;suggests the Court was acting out of anger in the Holm sentencing and that the anger displayed itself in the Court&#39;s actions during the sentencing. It appears Mr. Holm is a victim of crossfire between the Court and the Government.&quot;</p>
+
+
+
+
+
+
+<p class="posted">
+Posted by Product Team on June  7, 2013 at 04:37 PM | <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/a-judge-smash-in-sentencing-dispute-with-prosecutors.html">Permalink</a>
+
+| <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/a-judge-smash-in-sentencing-dispute-with-prosecutors.html#comments">Comments (0)</a>
+
+</p>
+<!--END POST-->
+
+
+
+<!-- tweet -->
+<span class="entry-footer-links-twitter" style="float: left;margin-right: 15px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html?url=https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/a-judge-smash-in-sentencing-dispute-with-prosecutors.html&text=A 'Judge Smash' in Sentencing Dispute With Prosecutors&count=none" style="width:55px; height:20px;"></iframe>
+</span>
+<!-- facebook like -->
+<iframe src="https://www.facebook.com/widgets/like.php?href=https%3A%2F%2Flegalblogwatch.typepad.com%2Flegal_blog_watch%2F2013%2F06%2Fa-judge-smash-in-sentencing-dispute-with-prosecutors.html" scrolling="no" frameborder="0" style="border:none; width:355px; height:80px"></iframe>
+</MTentryfooter>
+
+
+
+
+
+<!--MTWeblogPostIfShow field="date_header">
+
+<h2>June 05, 2013</h2>
+
+</MTWeblogPostIfShow-->
+
+<a id="a6a00d8341cce2453ef0192aac573f0970d"></a>
+
+<!--BEGIN POST-->
+
+<h4> <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/father-seeking-visitation-rights-wears-nazi-uniform-to-court.html">Father Seeking Visitation Rights Wears Nazi Uniform to Court</a></h4>
+
+
+
+<p>Last week <a class="linelink" href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/bad-judge-embroiled-in-drug-scandal-after-colleagues-death.html" target="new">we discussed</a> an Illinois judge who, after being arrested on drug and firearms charges, ended up at a court hearing wearing cut-off jean shorts and a T-shirt bearing the slogan, &quot;Bad is my middle name.&quot; Not the most appropriate ensemble, to be sure, but here (<a class="linelink" href=" http://jonathanturley.org/2013/06/04/new-jersey-man-appears-in-court-in-a-full-nazi-uniform-to-reclaim-visitation-rights/#more-65287" target="new">via <em>Jonathan Turley</em>)</a> is the story of a litigant who took the concept of questionable courtroom attire to the extreme. A New Jersey man <a class="linelink" href="http://www.nbcphiladelphia.com/news/local/Nazi-Dad-Fights-for-His-Childs-Custody-209910241.html" target="new">attended a family court hearing</a> this week wearing a Nazi uniform. Yikes. On the other hand, the outfit did coordinate nicely with his Hitler-esque mustache and swastika tattoos. </p>
+<p>
+Heath Campbell and his family <a class="linelink" href="http://www.nj.com/news/index.ssf/2008/12/child_named_after_adolf_hitler.html" target="new">gained notoriety</a> in December 2008, when employees of a ShopRite supermarket refused to spell out the name of their 3-year-old son on a birthday cake. That name: Adolf Hitler Campbell. Heath Campbell <a class="linelink" href="https://www.nbcnews.com/id/28269290/#.Ua93xPZgbOY" target="new">said at at the time</a> that he named his son after Adolf Hitler because &quot;no one else in the world would have that name.&quot; Indeed. He <a class="linelink" href="http://www.nj.com/news/index.ssf/2008/12/child_named_after_adolf_hitler.html" target="new">said</a> that those who would object to such a moniker &quot;need to accept a name. A name&#39;s a name. The kid isn&#39;t going to grow up and do what (Hitler) did.&quot; And the Campbells stuck to the same theme in naming Adolf&#39;s siblings, JoyceLynn Aryan Nation and Honszlynn Hinler Jeannie.</p>
+<p>The birthday cake flap (which Turley at the time called the <a class="linelink" href="http://jonathanturley.org/2008/12/17/mein-kake-adolph-hitler-campbell-refused-birthday-cake-at-shoprite/" target="new">&quot;mein kake&quot;</a> controversy) prompted an investigation into the family by New Jersey&#39;s Division of Youth and Family Services. The Campbell children were <a class="linelink" href="http://www.nbcphiladelphia.com/news/local/Adolf-Hitler-Sisters-Taken-from-Parents-Home.html" target="new">taken into state custody</a> in January 2009. A fourth child, Hons, was <a class="linelink" href="http://www.nbcphiladelphia.com/news/breaking/New-Jersey-Takes-Custody-of-Nazi-Naming-Parents-Newborn-134137723.html" target="new">taken by the state</a> just hours after his birth in November of 2011.</p>
+<p>
+The Campbells <a class="linelink" href="http://www.nj.com/news/index.ssf/2012/05/superior_court_judge_says_nazi.html" target="new">have appealed unsuccessfully</a> for the return of their children. Heath Campbell <a class="linelink" href="http://www.nbcphiladelphia.com/news/local/Nazi-Dad-Fights-for-His-Childs-Custody-209910241.html " target="new">says</a> that the couple has since separated and that the three older children have been adopted. At the hearing this week, Campbell was seeking visitation rights to the youngest son. </p>
+<p>When the Campbell children were taken away from their parents, the parents <a class="linelink" href="http://www.nbcphiladelphia.com/news/local/Hitlers-Mom-Speaks-Out-Defies-Court-Order.html" target="new">claimed</a> that the decision was based solely on the children&#39;s names. (Sadly, it seems the family&#39;s situation involves a number of other issues. The <a class="linelink" href="http://www.nj.com/hunterdon-county-democrat/index.ssf/2013/06/father_shows_up_to_family_cour.html" target="new"><em>Hunterdon County Democrat</em></a> has a full report on allegations of domestic abuse.) </p>
+<p>However, Heath Campbell <a class="linelink" href="http://www.nbcphiladelphia.com/news/local/Nazi-Dad-Fights-for-His-Childs-Custody-209910241.html" target="new">contends</a> that he&#39;s been separated from his children simply because of his political beliefs. &quot;Basically, what they&#39;re saying is because of my beliefs and I&#39;m a Nazi, that us people don&#39;t have any constitutional rights to fight for our children,&quot; Campbell said. 
+</p>
+<p>The <a class="linelink" href=" http://jonathanturley.org/2013/06/04/new-jersey-man-appears-in-court-in-a-full-nazi-uniform-to-reclaim-visitation-rights/#more-65287" target="new"><em>Jonathan Turley</em> post</a> posits that the case &quot;raises a 
+significant free speech issue. Most of us view this Nazi obsession to be 
+weird and unbalanced. However, it is also a form of political 
+expression.&quot;
+</p>
+<p>
+As for the Nazi uniform, Campbell said he hoped a court wouldn&#39;t be influenced by his appearance. &quot;If they&#39;re good judges and they&#39;re good people, they&#39;ll look within, not what&#39;s on the outside,&quot; he said. </p>
+
+
+
+
+
+
+<p class="posted">
+Posted by Product Team on June  5, 2013 at 04:39 PM | <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/father-seeking-visitation-rights-wears-nazi-uniform-to-court.html">Permalink</a>
+
+| <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/father-seeking-visitation-rights-wears-nazi-uniform-to-court.html#comments">Comments (5)</a>
+
+</p>
+<!--END POST-->
+
+
+
+<!-- tweet -->
+<span class="entry-footer-links-twitter" style="float: left;margin-right: 15px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html?url=https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/father-seeking-visitation-rights-wears-nazi-uniform-to-court.html&text=Father Seeking Visitation Rights Wears Nazi Uniform to Court&count=none" style="width:55px; height:20px;"></iframe>
+</span>
+<!-- facebook like -->
+<iframe src="https://www.facebook.com/widgets/like.php?href=https%3A%2F%2Flegalblogwatch.typepad.com%2Flegal_blog_watch%2F2013%2F06%2Ffather-seeking-visitation-rights-wears-nazi-uniform-to-court.html" scrolling="no" frameborder="0" style="border:none; width:355px; height:80px"></iframe>
+</MTentryfooter>
+
+
+
+
+
+<!--MTWeblogPostIfShow field="date_header">
+
+<h2>May 31, 2013</h2>
+
+</MTWeblogPostIfShow-->
+
+<a id="a6a00d8341cce2453ef0192aa8da9fe970d"></a>
+
+<!--BEGIN POST-->
+
+<h4> <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/parents-still-want-their-kids-to-grow-up-to-be-lawyers.html">Warnings Aside, Parents Still Want Their Kids to Grow Up to Be Lawyers</a></h4>
+
+
+
+<p>A <a class="linelink" href="http://blogs.lawyers.com/2013/05/two-thirds-of-parents-want-kids-to-be-lawyers/" target="new">new survey</a> from Lawyers.com has been making the rounds on law blogs this week, due to its somewhat surprising revelation that, even amid seemingly constant headlines about the shaky job market greeting today&#39;s law grads, nearly two-thirds of parents hope that their children will pursue careers in the law.</p>
+<p>
+The survey results <a class="linelink" href="http://www.dailyfinance.com/2013/05/30/new-survey-nearly-two-thirds-of-parents-want-their/" target="new">were based on</a> 1,001 phone interviews conducted in English and Spanish. Of survey respondents with children in their household, 64 percent said they hope their kids will grow up to be lawyers. Respondents were also asked about whether they would like to have a lawyer as a son- or daughter-in law. A majority of mothers surveyed -- 55 percent -- liked the idea, while future father-in-laws were less keen, with only 38 percent saying they were interested in having their child marry a lawyer. </p>
+<p>
+&quot;Being a lawyer means being a respected professional, and that&#39;s something that parents want for their children,&quot; Larry Bodine, editor-in-chief of Lawyers.com,&#0160;<a class="linelink" href="http://blogs.lawyers.com/2013/05/two-thirds-of-parents-want-kids-to-be-lawyers/" target="new">is quoted</a> as saying. “Despite the tough economy facing the next generation, it&#39;s exciting to note that nearly two-thirds of parents would be happy with a law degree in their child’s future.&quot; </p>
+<p>
+But some commentators find the results more alarming than exciting. In <a class="linelink" href="http://abovethelaw.com/2013/05/about-two-thirds-of-parents-want-their-kids-to-be-lawyersrelatedly-about-two-thirds-of-parents-dont-read-the-news/" target="new">a discussion of the survey</a> on <em>Above the Law</em>, Staci Zaretsky is incredulous that the survey respondents seem to be &quot;ignoring all the warnings that have been trumpeted from Above the Law to the New York Times, heedless of the spate of lawsuits that have been filed against law schools over their allegedly deceptive employment statistics, and paying no mind to the horror stories about young lawyers drowning in student loan debt.&quot; </p>
+<p>
+Notably, the survey results <a class="linelink" href="http://www.dailyfinance.com/2013/05/30/new-survey-nearly-two-thirds-of-parents-want-their/" target="new">show a divide</a> based on household income. Eighty percent of parents who make less than $25,000 per year said they&#39;d like for their children to become lawyers, as compared with only 54 percent of those with household incomes over $75,000. For some bloggers discussing the issue, this suggests a troubling knowledge gap about the current status of the legal profession. </p>
+<p>
+&quot;Obviously, there is a dangerous lag in information about career paths among the classes,&quot; suggests <a class="linelink" href="http://lawandmore.typepad.com/law_and_more/2013/05/my-sondaughter-the-lawyer-are-poor-parents-driving-their-kids-into-poverty.html" target="new">a post</a> on the <em>Law And More</em> blog. &quot;Upscale parents know that their children will make a good living through becoming entrepreneurs or being employed in the fields of engineering, information technology, and math. Law had been fine, they know. But not any more.&quot;  </p>
+<p>
+Zaretsky <a class="linelink" href="http://abovethelaw.com/2013/05/about-two-thirds-of-parents-want-their-kids-to-be-lawyersrelatedly-about-two-thirds-of-parents-dont-read-the-news/" target="new">expresses this concern</a> in the <em>ATL</em> post: &quot;Being a lawyer these days is a tough row to hoe, and if you’re hoping your children will be able to have a &#39;rags to riches&#39; story in the law, you should probably start fixating on another dream career for them.&quot; </p>
+
+
+
+
+
+
+<p class="posted">
+Posted by Product Team on May 31, 2013 at 04:36 PM | <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/parents-still-want-their-kids-to-grow-up-to-be-lawyers.html">Permalink</a>
+
+| <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/parents-still-want-their-kids-to-grow-up-to-be-lawyers.html#comments">Comments (5)</a>
+
+</p>
+<!--END POST-->
+
+
+
+<!-- tweet -->
+<span class="entry-footer-links-twitter" style="float: left;margin-right: 15px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html?url=https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/parents-still-want-their-kids-to-grow-up-to-be-lawyers.html&text=Warnings Aside, Parents Still Want Their Kids to Grow Up to Be Lawyers&count=none" style="width:55px; height:20px;"></iframe>
+</span>
+<!-- facebook like -->
+<iframe src="https://www.facebook.com/widgets/like.php?href=https%3A%2F%2Flegalblogwatch.typepad.com%2Flegal_blog_watch%2F2013%2F05%2Fparents-still-want-their-kids-to-grow-up-to-be-lawyers.html" scrolling="no" frameborder="0" style="border:none; width:355px; height:80px"></iframe>
+</MTentryfooter>
+
+
+
+
+
+<!--MTWeblogPostIfShow field="date_header">
+
+<h2>May 30, 2013</h2>
+
+</MTWeblogPostIfShow-->
+
+<a id="a6a00d8341cce2453ef01901cbda3ee970b"></a>
+
+<!--BEGIN POST-->
+
+<h4> <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/when-complaining-about-your-job-on-facebook-can-get-you-fired.html">When Complaining About Your Job on Facebook Can Get You Fired</a></h4>
+
+
+
+<p>Employment law blogs, including Porter Wright&#39;s <a class="linelink" href="http://www.employerlawreport.com/2013/05/articles/labor-relations/when-employee-taunts-employer-via-facebook-to-fire-me-make-my-day-nlrb-memo-concludes-the-employer-can-go-for-it/#axzz2UiruBk2v" target="new"><em>Employer Law Report</em></a> and Ogletree Deakins&#39; <a class="linelink" href="http://www.employmentlawmatters.net/2013/05/articles/nlra/expression-of-personal-contempt-in-facebook-group-message-did-not-constitute-protected-concerted-activity/" target="new"><em>Employment Law Matters</em></a>, have been discussing an Advice Memorandum recently released by the National Labor Relations Board that addresses when an employee may be fired over negative comments about an employer on social media, and when such messages constitute <a class="linelink" href="https://www.nlrb.gov/concerted-activity" target="new">&quot;protected concerted activity&quot;</a> under the National Labor Relations Act.  </p>
+<p>
+The case involves private Facebook group messages written between current and former employees of Tasker Healthcare Group (doing business as Skinsmart Dermatology). During a group message discussion initiated to organize a social event, one employee took the opportunity to express some dissatisfaction with her supervisor and with the company in general. </p>
+<p>
+Among other comments, the employee (who the NLRB memo refers to as the Charging Party) wrote that the company is &quot;full of shit ... They seem to be staying away from me, you know I don&#39;t bite my [tongue] anymore, FUCK … FIRE ME … MAKE my day …&quot; No other current employees participated in that part of the conversation, but later on, one employee did write that &quot;it&#39;s getting bad&quot; at Tasker and that &quot;it&#39;s just annoying as hell. It&#39;s always some dumb shit going on.&quot; </p>
+<p>
+The morning after the exchange, one of the employees who was included in the message string but remained silent during the discussion showed the Facebook exchange to the employer. As Sara Hutchins Jodka <a class="linelink" href="http://www.employerlawreport.com/2013/05/articles/labor-relations/when-employee-taunts-employer-via-facebook-to-fire-me-make-my-day-nlrb-memo-concludes-the-employer-can-go-for-it/#axzz2UiruBk2v" target="new">writes</a> in the <em>Employer Law Report</em> post, Tasker &quot;took Charging Party up on her request to be fired,&quot; saying it was clear that she no longer cared to work there, &quot;and indeed made her day.&quot; </p>
+<p>
+The employee filed a charge claiming that her termination violated a provision of the National Labor Relations Act that protects <a class="linelink" href="https://www.nlrb.gov/concerted-activity" target="new">concerted activity</a> on behalf of employees to improve wages or working conditions. In the <a class="linelink" href="https://mynlrb.nlrb.gov/link/document.aspx/09031d458115cad0" target="new">Advice Memorandum</a>, NLRB Associate General Counsel Barry J. Kearney recommended dismissal of the charge, finding that the employee&#39;s comments &quot;merely expressed an individual gripe rather than any shared concerns about working conditions.&quot; </p>
+<p>
+The memo stated that the employee&#39;s comments &quot;merely reflected her personal contempt,&quot; and that there was no evidence that her co-workers interpreted them as an expression of shared concerns. The later posting from the co-worker about the employer being &quot;annoying as hell&quot; was found to be &quot;ambiguous&quot; and unrelated to the fired employee&#39;s earlier comments.  </p>
+<p>
+On Barnes &amp; Thornburg&#39;s <a class="linelink" href="http://www.btcurrents.com/nlrb-offers-further-clarification-regarding-expression-of-employees-section-7-rights-on-social-media-05-23-2013/" target="new"><em>Currents</em> blog</a>, Doug Oldham contrasts the Tasker case with <a class="linelink" href="https://www.nlrb.gov/case/20-CA-035511" target="new">an April NLRB decision</a> holding that clothing manufacturer Bettie Page Clothing unlawfully fired three workers based on a conversation on Facebook. In that case, the workers criticized their supervisor in a series of Facebook posts and discussed bringing a book on worker&#39;s rights to the store. The NLRB <a class="linelink" href="https://mynlrb.nlrb.gov/link/document.aspx/09031d458114449e" target="new">held</a>
+that the posts constituted protected concerted activity, since they &quot;were complaints among employees about the conduct of their supervisor as it related to their terms and conditions of employment and about management&#39;s refusal to address the employees&#39; concerns.&quot; </p>
+<p>
+The takeaway from the Tasker case? Attorney-bloggers examining the issue warn that employers should still be wary about firing employees based on their online complaints. Jodka <a class="linelink" href="http://www.employerlawreport.com/2013/05/articles/labor-relations/when-employee-taunts-employer-via-facebook-to-fire-me-make-my-day-nlrb-memo-concludes-the-employer-can-go-for-it/#axzz2UiruBk2v" target="new">writes</a> on the <em>Employer Law Report</em> that the case &quot;demonstrates that even when an employee&#39;s comments on social media are so outrageous that they literally ask the employer to fire the employee, the employer must still do some analysis to determine whether the comments may constitute concerted protected activity under the NLRA.&quot; </p>
+
+
+
+
+
+
+<p class="posted">
+Posted by Product Team on May 30, 2013 at 04:18 PM | <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/when-complaining-about-your-job-on-facebook-can-get-you-fired.html">Permalink</a>
+
+| <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/when-complaining-about-your-job-on-facebook-can-get-you-fired.html#comments">Comments (1)</a>
+
+</p>
+<!--END POST-->
+
+
+
+<!-- tweet -->
+<span class="entry-footer-links-twitter" style="float: left;margin-right: 15px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html?url=https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/when-complaining-about-your-job-on-facebook-can-get-you-fired.html&text=When Complaining About Your Job on Facebook Can Get You Fired&count=none" style="width:55px; height:20px;"></iframe>
+</span>
+<!-- facebook like -->
+<iframe src="https://www.facebook.com/widgets/like.php?href=https%3A%2F%2Flegalblogwatch.typepad.com%2Flegal_blog_watch%2F2013%2F05%2Fwhen-complaining-about-your-job-on-facebook-can-get-you-fired.html" scrolling="no" frameborder="0" style="border:none; width:355px; height:80px"></iframe>
+</MTentryfooter>
+
+
+
+
+
+<!--MTWeblogPostIfShow field="date_header">
+
+<h2>May 29, 2013</h2>
+
+</MTWeblogPostIfShow-->
+
+<a id="a6a00d8341cce2453ef019102a987bc970c"></a>
+
+<!--BEGIN POST-->
+
+<h4> <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/bad-judge-embroiled-in-drug-scandal-after-colleagues-death.html">'Bad' Judge Embroiled in Drug Scandal After Colleague's Death</a></h4>
+
+
+
+<p>An Illinois judicial scandal involving drugs, death and some truly unfortunate courtroom attire has been gaining steam this week.  </p>
+<p>
+An arraignment was held Tuesday for St. Clair County probation worker James Fogarty, who <a class="linelink" href="http://www.newstimes.com/news/crime/article/FBI-Ill-Man-admits-selling-cocaine-to-2-judges-4553200.php" target="new">is accused of selling cocaine to two county judges</a>, Joseph Christ and Michael Cook. Christ died in March while on a hunting trip with Cook at a lodge owned by Cook&#39;s family. A coroner on Friday <a class="linelink" href="http://www.bnd.com/2013/05/24/2629219/coroner-investigation-of-death.html" target="new">confirmed</a> that Christ&#39;s death was due to cocaine intoxication. Christ, a longtime prosecutor, was sworn in as a judge only 10 days before his death. He was 49 years old and a father of six. </p>
+<p>
+Cook, a 43-year-old St. Clair County circuit judge, has not been charged in connection with Christ&#39;s death, but was arrested last week on charges of heroin possession and using a controlled substance while in possession of a firearm, the <a class="linelink" href="http://www.stltoday.com/news/local/crime-and-courts/st-clair-county-judge-held-pending-drug-charge/article_06638360-fa99-5816-b544-796f58f9bfe8.html" target="new"><em>St. Louis Post-Dispatch</em> writes</a>. Cook resigned from the bench on Wednesday, the <em>Belleville News-Democrat</em> <a class="linelink" href="http://www.bnd.com/2013/05/29/2635204/report-judge-mike-cook-submitted.html" target="new">reports</a>. A letter submitted by his attorney stated that Cook &quot;was away in treatment.&quot;
+</p>
+<p>Cook pleaded not guilty at a hearing Friday, <a class="linelink" href="http://www.bnd.com/2013/05/24/2629426/bad-is-my-middle-name-belleville.html" target="new">appearing in court</a> wearing cut-off jean shorts and a T-shirt bearing the message &quot;Bad is my middle name.&quot; That was apparently the ensemble Cook had been sporting when he was arrested several evenings earlier at the home of a friend and former client, Sean McGilvery, who was also charged with heroin possession and intent to distribute. </p>
+<p>
+Fogarty, the probation worker who allegedly sold drugs to the two judges, <a class="linelink" href="http://www.newstimes.com/news/crime/article/FBI-Ill-Man-admits-selling-cocaine-to-2-judges-4553200.php" target="new">pleaded not guilty</a> to federal drug charges Tuesday. The Associated Press <a class="linelink" href="http://www.newstimes.com/news/crime/article/FBI-Ill-Man-admits-selling-cocaine-to-2-judges-4553200.php" target="new">reports</a> that FBI Special Agent Joseph Murphy filed an affidavit stating that Fogarty admitted that he repeatedly sold cocaine to Cook and Christ, and that he sometimes used the drug with them. Murphy&#39;s affidavit states that, &quot;Fogarty snorted cocaine with the two judges at times on golf trips and at least once at the Cook family&#39;s lodge where Christ later died,&quot; the AP <a class="linelink" href="http://www.newstimes.com/news/crime/article/FBI-Ill-Man-admits-selling-cocaine-to-2-judges-4553200.php" target="new">writes</a>. </p>
+<p>According to the affidavit, the AP <a class="linelink" href="http://www.newstimes.com/news/crime/article/FBI-Ill-Man-admits-selling-cocaine-to-2-judges-4553200.php" target="new">reports</a>, &quot;The day before Cook and Christ went off on
+the hunting trip from which Christ would not return alive, Fogarty snorted cocaine with the judges before giving the rest of the &#39;eight ball&#39; -- an eighth of an ounce, or 3.5 grams -- of the drug to them for $140 apiece.&quot; </p>
+<p>
+Cook has been released on bond and a trial date was set for July. He faces up to 10 years in prison on the possession and firearms charges. Cook&#39;s cases have been reassigned, and the state&#39;s attorney <a class="linelink" href="http://www.stltoday.com/news/local/crime-and-courts/st-clair-county-court-drug-scandal-widens-to-probation-worker/article_61467f79-bd7e-506a-97e1-d2cd95179b85.html" target="new">has filed ethics complaints</a> against him. St. Clair County Chief Judge John Baricevic said both Cook&#39;s and Christ&#39;s criminal cases are being reviewed for any link to their illegal drug activities. &quot;There is no indication there was a corruption of their bench duties, but the investigation is ongoing,&quot; Baricevic <a class="linelink" href="http://www.bnd.com/2013/05/24/2629426/bad-is-my-middle-name-belleville.html" target="new">told the <em>News-Democrat</em></a>. 
+</p>
+<p>Additional revelations are likely to come. The <em>News-Democrat</em> <a class="linelink" href="http://www.bnd.com/2013/05/28/2633774/probation-officer-accused-of-selling.html" target="new">writes</a> that after Fogarty&#39;s hearing Tuesday, U.S. Attorney Steve Wigginton told reporters that the matter is &quot;an ongoing investigation with lots of moving parts.&quot; The inquiry, Wigginton said, is &quot;wide open and not limited to the St. Clair County Courthouse.&quot; </p>
+
+
+
+
+
+
+<p class="posted">
+Posted by Product Team on May 29, 2013 at 04:41 PM | <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/bad-judge-embroiled-in-drug-scandal-after-colleagues-death.html">Permalink</a>
+
+| <a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/bad-judge-embroiled-in-drug-scandal-after-colleagues-death.html#comments">Comments (0)</a>
+
+</p>
+<!--END POST-->
+
+
+
+<!-- tweet -->
+<span class="entry-footer-links-twitter" style="float: left;margin-right: 15px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html?url=https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/bad-judge-embroiled-in-drug-scandal-after-colleagues-death.html&text='Bad' Judge Embroiled in Drug Scandal After Colleague's Death&count=none" style="width:55px; height:20px;"></iframe>
+</span>
+<!-- facebook like -->
+<iframe src="https://www.facebook.com/widgets/like.php?href=https%3A%2F%2Flegalblogwatch.typepad.com%2Flegal_blog_watch%2F2013%2F05%2Fbad-judge-embroiled-in-drug-scandal-after-colleagues-death.html" scrolling="no" frameborder="0" style="border:none; width:355px; height:80px"></iframe>
+</MTentryfooter>
+
+
+
+
+</div>
+<!--center content stack-->
+
+<!--right-->
+<div id="right">
+
+
+<div id="communications">
+
+<ul>
+<li><a href="mailto:pmartersteck@alm.com">Contact LBW Editor</a></li>
+<li><a href="https://store.law.com/registration/register.asp?SubscribeTo=lbw&w=lbw">Sign up to receive Legal Blog Watch by e-mail</a></li>
+<li><a href="http://blogs.law.com/sample_email.html">View a Sample</a></li>
+
+<li><a href="https://legalblogwatch.typepad.com/legal_blog_watch/atom.xml">Subscribe to this blog's feed</a></li>
+
+<!-- Powered by <li><a href="http://www.typepad.com/">TypePad</a></li> -->
+
+<li><a href="https://twitter.com/legalblogwatch">Follow Legal Blog Watch on Twitter</a><br /><br /><script type="text/javascript" language="javascript" src="https://twittercounter.com/embed/?username=legalblogwatch"></script>
+</li>
+
+</ul>
+</div>
+
+<img src="http://www.law.com/img/spacer.gif" height="6" /></td></tr><tr><td><img src="http://www.law.com/img/spacer.gif" height="4" />
+
+<!-- ENTIRE AD UNIT STARTS HERE, GOES IN THE BODY OF YOUR BLOG -->
+<table border="0" cellspacing="0" cellpadding="0" width="142" height="630">
+<tr>
+<td>
+<center>
+<table border="0" cellspacing="0" cellpadding="3" width="142" bgcolor="#ffffff">
+  <tr>
+    <td width ="142" align="left"  id="unit"><img src="http://www.law.com/img/blog/spacer.gif" width="1" height="2" /><br />
+	<div class="section">From the Law.com Newswire<br /><br /></div>
+	<script language="javascript" src="https://www.law.com/jsp/law/mainarticles_for_distribution.jsp"></script>
+
+	<font size=1>
+<script language="javascript" type="text/javascript">
+maxArticles=5;
+if(maxArticles>NewsHeadlines.length){maxArticles=NewsHeadlines.length;}
+for (i= 0;i < maxArticles; i++){
+		if ( NewsHeadlines[i] != "empty<br>" )
+		{
+		document.writeln(NewsHeadlines[i]);
+		}
+		document.writeln("\n<br>");
+		}
+</script>
+</font>
+
+
+<!--RSS/PRIVACY POLICY LINKS-->
+<table border="0" cellpadding="0" cellspacing="0" width="142">
+<tr>
+  <td valign="bottom"><a href="http://www.law.com/newswire_rss.xml" target="blank"><img src="http://www.law.com/images/design/rss_feeds.gif" border="0" align="middle" vspace="5" /></a></td>
+</tr>
+</table>
+<!--END RSS/PRIVACY POLICY LINKS-->
+
+      </td>
+
+  </tr>
+
+</table></center>
+</td></tr><tr><td><img src="http://www.law.com/img/spacer.gif" height="4" /></td></tr><tr><td><img src="http://www.law.com/img/spacer.gif" height="4" /></td></tr><tr><td><center>
+
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" width="142" height="630">
+  <tr>
+    <td width="142" align="center">
+<!------ OAS AD 'Right1' begin ------>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+OAS_AD('Right1');
+//-->
+</SCRIPT>
+<!------ OAS AD 'Right1' end ------>
+	</td>
+  </tr>
+</table>
+</center>
+
+</td>
+</tr>
+</table>
+<!-- ENTIRE AD UNIT ENDS HERE -->
+
+
+<!--script type="text/javascript" src="http://technorati.com/embed/g2t7gkrief.js"> </script-->
+
+
+<table width="142" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td><img src="http://www.law.com/img/blog/spacer.gif" width="142" height="6" /></td>
+</tr>
+</table>
+
+<div id="categories">
+<h3>Categories</h3>
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/current_affairs/">Current Affairs</a>
+<br>
+<br>
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/games/">Games</a>
+<br>
+<br>
+<a href="http://www.legaltechshow.com/r5/cob_page.asp?category_code=ltech">LegalTech</a>
+<br>
+<br>
+</div>
+
+<!--
+<div id="categories">
+<h3>Categories</h3>
+
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/current_affairs/">Current Affairs</a><br /><br />
+
+
+
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/food_and_drink/">Food and Drink</a><br /><br />
+
+
+
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/games/">Games</a><br /><br />
+
+
+
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/legaltech_new_york_2008/">LegalTech New York 2008</a><br /><br />
+
+
+
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/legaltech-new-york-2009/">LegalTech New York 2009</a><br /><br />
+
+
+
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/legaltech_west_coast_2008/">LegalTech West Coast 2008</a><br /><br />
+
+
+
+</div>
+-->
+
+<img src="http://www.law.com/img/blog/spacer.gif" width="142" height="6" />
+
+<div id="archives">
+
+<h3>Archive</h3>
+
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/06/index.html">June 2013</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/05/index.html">May 2013</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/04/index.html">April 2013</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/03/index.html">March 2013</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/02/index.html">February 2013</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2013/01/index.html">January 2013</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/12/index.html">December 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/11/index.html">November 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/10/index.html">October 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/09/index.html">September 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/08/index.html">August 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/07/index.html">July 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/06/index.html">June 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/05/index.html">May 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/04/index.html">April 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/03/index.html">March 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/02/index.html">February 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2012/01/index.html">January 2012</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/12/index.html">December 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/11/index.html">November 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/10/index.html">October 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/09/index.html">September 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/08/index.html">August 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/07/index.html">July 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/06/index.html">June 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/05/index.html">May 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/04/index.html">April 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/03/index.html">March 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/02/index.html">February 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2011/01/index.html">January 2011</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/12/index.html">December 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/11/index.html">November 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/10/index.html">October 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/09/index.html">September 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/08/index.html">August 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/07/index.html">July 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/06/index.html">June 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/05/index.html">May 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/04/index.html">April 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/03/index.html">March 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/02/index.html">February 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2010/01/index.html">January 2010</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/12/index.html">December 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/11/index.html">November 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/10/index.html">October 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/09/index.html">September 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/08/index.html">August 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/07/index.html">July 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/06/index.html">June 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/05/index.html">May 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/04/index.html">April 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/03/index.html">March 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/02/index.html">February 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2009/01/index.html">January 2009</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/12/index.html">December 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/11/index.html">November 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/10/index.html">October 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/09/index.html">September 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/08/index.html">August 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/07/index.html">July 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/06/index.html">June 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/05/index.html">May 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/04/index.html">April 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/03/index.html">March 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/02/index.html">February 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2008/01/index.html">January 2008</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/12/index.html">December 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/11/index.html">November 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/10/index.html">October 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/09/index.html">September 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/08/index.html">August 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/07/index.html">July 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/06/index.html">June 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/05/index.html">May 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/04/index.html">April 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/03/index.html">March 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/02/index.html">February 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2007/01/index.html">January 2007</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/12/index.html">December 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/11/index.html">November 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/10/index.html">October 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/09/index.html">September 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/08/index.html">August 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/07/index.html">July 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/06/index.html">June 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/05/index.html">May 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/04/index.html">April 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/03/index.html">March 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/02/index.html">February 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2006/01/index.html">January 2006</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/12/index.html">December 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/11/index.html">November 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/10/index.html">October 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/09/index.html">September 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/08/index.html">August 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/07/index.html">July 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/06/index.html">June 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/05/index.html">May 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/04/index.html">April 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/03/index.html">March 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/02/index.html">February 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2005/01/index.html">January 2005</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2004/12/index.html">December 2004</a><br /><br />
+
+<a href="https://legalblogwatch.typepad.com/legal_blog_watch/2004/11/index.html">November 2004</a><br /><br />
+
+
+</div>
+
+
+</div>
+<!--right-->
+</div>
+<!--pagebody-->
+<div style="clear: both;">&#160;</div>
+</div>
+<!--threecolumncontainer-->
+
+<div style="clear: both;">&#160;</div>
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=79038&amp;user_id=198502&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+
+<!-- tp ga -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- end tp ga -->
+
+
+
+<div id="icfooter2">
+  <div class="footernav">
+	<a href="http://www.alm.com/">About ALM</a> &nbsp;|&nbsp;
+	<a href="http://www.law.com/service/aboutlaw.shtml">About Law.com</a> &nbsp;|&nbsp;
+	<a href="https://store.law.com/feedback_form.asp">Customer Support</a> &nbsp;|&nbsp;
+	<a href="http://www.law.com/service/privacy_policy.shtml">Privacy Policy</a> &nbsp;|&nbsp;
+	<a href="http://www.law.com/service/terms_conditions.shtml">Terms &amp; Conditions</a>&nbsp;<br />
+	<div class="copyright"><script language="JavaScript" src="https://www.law.com/global/copyright.js"></script></div>
+  </div><!-- /footernav -->
+
+<div><a href="http://www.alm.com/"><img src="http://www.law.com/img/universal/alm_footer_logo2009.gif" border="0" /></a></div>
+</div>
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=1176411;
+var sc_invisible=1;
+var sc_partition=10;
+var sc_security="3dfb3818";
+</script>
+<script type="text/javascript" language="javascript" src="https://statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c11.statcounter.com/counter.php?sc_project=1176411&amp;java=0&amp;security=3dfb3818&amp;invisible=1" alt="web log free" border="0" /></a> </noscript>
+<!-- End of StatCounter Code -->
+<script type="text/javascript" src="https://profile.typepad.com/services/embed/tpc/6a00d8341cce2453ef00d8341cce2953ef/counts_embed.js"></script>
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+</body>
+</html>
+<!-- ph=1 -->
